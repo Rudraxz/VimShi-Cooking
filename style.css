@@ -151,6 +151,11 @@ body {
     padding-top: 50px;
 }
 
+#about-me p
+{
+    font-size: 30px;
+}
+
 /*--------social media--------*/
 
 #social-media {
